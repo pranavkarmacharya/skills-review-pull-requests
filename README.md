@@ -43,6 +43,7 @@ Let's get started by opening a pull request.
 
 <footer>
 
+New change
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
